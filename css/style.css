@@ -167,6 +167,21 @@ footer {
         font-size: 1rem;
     }
 
+    #intro hr {
+        width: 50%;
+    }
+
+    @keyframes lineBigger {
+        from {
+            width: 0%;
+            border: rgba(97, 97, 97, 0);
+        }
+        to {
+            width: 50%;
+            border: rgb(97, 97, 97);
+        }
+    }
+
     @keyframes buttonsIn {
         0% {
             margin-top: 10rem;
