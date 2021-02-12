@@ -167,6 +167,10 @@ footer {
         font-size: 1rem;
     }
 
+    #intro h1 {
+        margin-top: 10rem;
+    }
+
     #intro hr {
         width: 50%;
     }
