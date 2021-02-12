@@ -32,7 +32,7 @@ body {
 #intro h1 {
     margin: 1rem;
     margin-top: 20rem;
-    font-size: 4rem;
+    font-size: 3.5rem;
     color: rgb(31, 31, 31);
     animation-duration: 3s;
     animation-name: mainTextIn;
