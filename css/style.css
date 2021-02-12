@@ -46,6 +46,12 @@ body {
     animation-name: bottomTextIn;
 }
 
+#intro h3 {
+    font-weight: 300;
+    animation-duration: 3s;
+    animation-name: bottomTextIn;
+}
+
 #intro hr {
     width: 30%;
     margin: auto;

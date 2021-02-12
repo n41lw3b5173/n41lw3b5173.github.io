@@ -1,6 +1,5 @@
 main {
     display: flex;
-    height: 100rem;
     animation: fadeIn 2.5s;
 }
 
@@ -31,7 +30,7 @@ footer {
     transition: 1s;
 }
 
-#left img, #right img:hover {
+#left img:hover, #right img:hover {
     border: solid 1px rgb(255, 255, 255)
 }
 
